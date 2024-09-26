@@ -38,3 +38,10 @@ O projeto utiliza estruturas como **dataframes**, **funções**, **loops** e **c
    - **Fazer logout** quando terminar.
 
 O sistema irá gerar pontos aleatórios e adicionar à sua pontuação cada vez que você participar de uma atividade.
+
+## Integrantes do Grupo
+
+- **Augusto Rocha Silva (RM556316)**
+- **Nicolas Lorenzo Ferreira da Silva (RM557962)**
+- **Pedro Henrique Faim dos Santos (557440)**
+
